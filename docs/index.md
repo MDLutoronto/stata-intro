@@ -1,7 +1,8 @@
 ---
 title: "Introduction to Stata"
 layout: "home"
-description: ""
+description: "This guide gives users an introduction to Stata. The topics covered are importing, exploring, modifying and managing data."
+created_date: 2017-05-05
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -9,7 +10,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 This guide gives users an introduction to Stata. The topics covered are importing, exploring, modifying and managing data.
 
-This guide has been created using Stata IC version 16\.1\. The main dataset used is the flights dataset. It contains the US domestic flights in January 2020 \[1]. The other two datasets used are fabricated datasets created for the purpose of this guide.
+This guide has been created using Stata IC version 16.1. The main dataset used is the flights dataset. It contains the US domestic flights in January 2020 [1]. The other two datasets used are fabricated datasets created for the purpose of this guide.
 
 The link to the recording of this workshop can be found [here](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978). Additional resources are listed below. If you need assistance, fill out the [support request form](https://mdl.library.utoronto.ca/research/help).
 
@@ -17,26 +18,26 @@ The link to the recording of this workshop can be found [here](https://play.libr
 
  
 
-**TABLE OF CONTENTS** 
-[Getting Started](#gettingstarted)  
-[Importing Data](#importingdata)  
-[Exploring Data](#exploringdata)  
+**TABLE OF CONTENTS**       
+[Getting Started](#getting-started)  
+[Importing Data](#importing-data)  
+[Exploring Data](#exploring-data)  
 [Graphs](#graphs)  
-[New Variables](#newvariables)  
-[Managing Data](#managingdata)  
-[Reshaping Data](#reshapingdata)  
-[Stata Packages](#statapackages)  
+[New Variables](#new-variables)  
+[Managing Data](#managing-data)  
+[Reshaping Data](#reshaping-data)  
+[Stata Packages](#stata-packages)  
 [Resources](#resources)
 
  
 
 ### **Getting Started**
 
-There are three ways to run tasks in Stata. You can use point\-and\-click to execute tasks using the dialogs from the Data, Graphics and Statistics menus.
+There are three ways to run tasks in Stata. You can use point-and-click to execute tasks using the dialogs from the Data, Graphics and Statistics menus.
 
 You can type Stata code in the command window and submit the code by hitting the ENTER/return key.
 
-Or you can type Stata code in the do\-file editor. To open a do\-file editor, go to the File menu, then go to New and select Do\-file. Once you type your code in the do\-file, you can run it by highlighting the line of code and clicking on the execute icon (the play button) in the top\-right corner of the do\-file window.
+Or you can type Stata code in the do-file editor. To open a do-file editor, go to the File menu, then go to New and select Do-file. Once you type your code in the do\-file, you can run it by highlighting the line of code and clicking on the execute icon (the play button) in the top\-right corner of the do-file window.
 
 The results will always appear in the results window. Stata is case\-sensitive.
 
@@ -374,4 +375,4 @@ ado dir
 
 author Nadia Muhe, Map and Data Library, University of Toronto.
 
-Tools: [Stata](/tools/stata)**Date Created:** 2017\-05\-05**Updated:** 2023\-11\-23
+Tools: [Stata](/tools/stata)

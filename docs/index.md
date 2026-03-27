@@ -6,6 +6,10 @@ created_date: 2017-05-05
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe
+      staff:
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -381,6 +385,6 @@ ado dir
 
 [1] The flights dataset is modified from the [original version](https://www.kaggle.com/divyansh22/flight-delay-prediction) on the Kraggle website.  
 [2] [Additional resources](https://www.stata.com/links/resources-for-learning-stata/) to learn Stata.  
-[3] The tutorial code and the workshop Powerpoint presentation can be downloaded from [here](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/Stata1/tutorial.zip).
+[3] The tutorial code and the workshop Powerpoint presentation can be downloaded from [here](https://maps.library.utoronto.ca/workshops/Stata1/tutorial.zip).
 
 Tools: [Stata](https://mdl.library.utoronto.ca/tools/stata)

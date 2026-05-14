@@ -2,6 +2,13 @@
 title: Getting Started
 parent: Introduction to Stata
 layout: default
+created_date: 2017-05-05
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 nav_order: 1
 ---
 
@@ -20,3 +27,5 @@ Some useful commands to get started:
 **search** *enter_topic_here* returns the list of commands associated with a topic  
 **help** *enter_command_here* returns the help file for a specific command  
 **clear** removes the dataset that is currently loaded in memory so that you can import a new dataset
+
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)

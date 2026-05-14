@@ -2,6 +2,13 @@
 title: New Variables
 parent: Introduction to Stata
 layout: default
+created_date: 2017-05-05
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 nav_order: 5
 ---
 
@@ -72,3 +79,5 @@ The original flights dataset now has 5 new variables. This can be checked in the
 save flights.dta, replace
 
 ```
+
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)

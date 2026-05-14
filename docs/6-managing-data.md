@@ -2,6 +2,13 @@
 title: Managing Data
 parent: Introduction to Stata
 layout: default
+created_date: 2017-05-05
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 nav_order: 6
 ---
 
@@ -78,3 +85,4 @@ export excel "Airports.xlsx", replace firstrow(var)
 restore
 
 ```
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)

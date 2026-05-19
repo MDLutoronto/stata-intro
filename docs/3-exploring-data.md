@@ -2,6 +2,13 @@
 title: Exploring Data
 parent: Introduction to Stata
 layout: default
+created_date: 2017-05-05
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 nav_order: 3
 ---
 
@@ -42,3 +49,5 @@ sum distance if dayofweek==1
 bysort dayofweek: sum distance
 
 ```
+
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)

@@ -6,13 +6,13 @@ created_date: 2017-05-05
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe
-      staff:
 maintainer:
- - name: Nadia Muhe
-   link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 permalink: "/"  #! Remove this if not the homepage
 nav_order: 0
 has_children: true
+has_toc: false
 ---
 
 # Introduction to Stata
@@ -23,4 +23,4 @@ This guide has been created using Stata IC version 16.1. The main dataset used i
 
 The link to the recording of this workshop can be found [here](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978). Additional resources are listed below. If you need assistance, fill out the [support request form](https://mdl.library.utoronto.ca/research/help).
 
-Tool: [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)

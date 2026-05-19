@@ -2,6 +2,13 @@
 title: Graphs
 parent: Introduction to Stata
 layout: default
+created_date: 2017-05-05
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 nav_order: 4
 ---
 
@@ -37,3 +44,5 @@ graph bar (count), over(dayofweek) title(Frequency of Flights by Day of the Week
 <img src='{{ '/assets/images/Stata3.3.png' | relative_url }}' alt='' title='' width='510' height='372' />
 
 You can continue a line of code over multiple lines by adding three forward slashes at the end of the lines that continue.
+
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)

@@ -2,6 +2,13 @@
 title: Importing Data
 parent: Introduction to Stata
 layout: default
+created_date: 2017-05-05
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 nav_order: 2
 ---
 
@@ -32,3 +39,5 @@ use flights, clear
 
 ```
 Once you import the dataset, the variables are listed in the variables window. You can check the number of rows and the number of observations in the properties window.
+
+**Tool:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
